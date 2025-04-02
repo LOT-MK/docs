@@ -4,7 +4,7 @@
   "name": "LOT.MK Docs",
   "colors": {
     "primary": "#a31624",
-    "light": "#c90707",
+    "light": "#ddd",
     "dark": "#801515"
   },
   "favicon": "/favicon.svg",
@@ -38,13 +38,13 @@
         "tab": "API Reference",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Documentation",
             "pages": [
               "api-reference/introduction"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Examples",
             "pages": [
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
