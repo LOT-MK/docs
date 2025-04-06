@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "LOT.MK Docs",
+  "name": "LOT.MK Документација",
   "colors": {
     "primary": "#a31624",
     "light": "#ddd",
@@ -22,7 +22,7 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Кор",
             "pages": [
               "essentials/markdown",
               "essentials/code",
